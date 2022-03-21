@@ -31,7 +31,7 @@ export default {
   data() {
     return {
       apijson: {},
-      redirect_uri: 'https://sf-auth-0e7ad6.netlify.app/#/auth',
+      redirect_uri: 'https://sf-access-6d3e2d.netlify.app/auth',
       ckey: '3MVG9riCAn8HHkYWhCjpJsP6M7CogzJaVsFgPuLnx8ubjRUAWxfz2FwveQnigPmuOVM1p2khA_Mmqj03tqzjc',
       url: 'https://ec-expedite-dev-ed.my.salesforce.com/services/oauth2/authorize?',
     };
